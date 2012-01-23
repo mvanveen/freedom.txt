@@ -15,9 +15,9 @@ Join the dozens who have already pledged their support.
 
 ### Generate Your Own
 
-   $ python freedom.py 
-   What is your name? Michael Van Veen
-   Where should I write file to? [freedom.txt]? 
+     $ python freedom.py 
+     What is your name? Michael Van Veen
+     Where should I write file to? [freedom.txt]? 
 
 ### Adding links
 
