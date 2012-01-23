@@ -53,6 +53,19 @@ I plan to add a command line arg to add links automattically in the near future.
 > A closed internet is a tool of oppression. An open internet is a weapon of
 > mass creation. Pick your sides. Create your own freedom.txt on your websites.
 
+### Currently Displayed Locations
+
+* [http://fr.anc.is/freedom.txt](http://fr.anc.is/freedom.txt)
+* [http://www.roleplaygateway.com/freedom.txt](http://www.roleplaygateway.com/freedom.txt)
+* [http://danmcewan.com/freedom.txt](http://danmcewan.com/freedom.txt)
+* [http://dudmail.com/freedom.txt](http://dudmail.com/freedom.txt)
+* [https://www.jacobsparts.com/freedom.txt](https://www.jacobsparts.com/freedom.txt)
+* [http://hoop-la.ca/freedom.txt](http://hoop-la.ca/freedom.txt)
+* [http://kyleterry.com/freedom.txt](http://kyleterry.com/freedom.txt)
+* [http://mvanveen.net/freedom.txt](http://mvanveen.net/freedom.txt)
+* [http://jacobroufa.com/freedom.txt](http://jacobroufa.com/freedom.txt)
+* [http://www.isingh.info/freedom.txt](http://www.isingh.info/freedom.txt)
+
 [isingh]: http://www.isingh.info/blog/2012/01/22/support-an-open-internet-create-your-own-freedom-txt/trackback/
 [freedomtxt]: http://mvanveen.net/freedom.txt
 
