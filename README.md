@@ -3,8 +3,10 @@ freedom.txt
 
 ### Introduction
 
-Publicly announce your support against internet censorship!  Join the dozens
-who have already pledged their support. 
+Publicly announce your support against internet censorship!
+Join the dozens who have already pledged their support. 
+
+### Links 
 
 My `freedom.txt` is available [here](http://www.mvanveen.net/freedom.txt).
 
