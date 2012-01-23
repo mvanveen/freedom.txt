@@ -25,7 +25,7 @@ The following will add a custom `freedom.txt` into the local directory:
 
      $ python freedom.py 
      What is your name? Michael Van Veen
-     Where should I write file to? [freedom.txt]? 
+     Where should I write file to [freedom.txt]? 
 
 ### Adding links
 
