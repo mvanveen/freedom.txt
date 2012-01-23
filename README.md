@@ -21,6 +21,8 @@ file after a little prompting.
 Add your new link to locations.txt as a seperate line in order to have the script 
 automattically add it.
 
+The following will add a custom `freedom.txt` into the local directory:
+
      $ python freedom.py 
      What is your name? Michael Van Veen
      Where should I write file to? [freedom.txt]? 
