@@ -17,6 +17,7 @@ Check out [Inderpreet's blog post][isingh] for more information
 Inderpreet has a project website available [here](http://wastedcode.com/freedom/).
 
 Full text:
+
 > Hi, my name is Michael Van Veen and I own this website. I no longer wish to
 > stay Anonymous in the fight against internet censorship and those who want to
 > close down our internet.
