@@ -23,8 +23,11 @@ def main():
 
   location = raw_input('Where should I write file to [freedom.txt]? ')
 
+  print
+  print 'writing file...',
   with open(location or 'freedom.txt', 'w') as file_obj:
     file_obj.write(inp)
+  print 'OK'
 
 if __name__ == '__main__':
   main()
