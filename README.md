@@ -3,20 +3,18 @@ freedom.txt
 
 ### Introduction
 
-Publicly announce your support against internet censorship!
-Join the dozens who have already pledged their support. 
+Publicly announce your support against internet censorship!  
+
+Join the dozens who have already pledged their support.
 
 ### Links 
 
-My `freedom.txt` is available [here](http://www.mvanveen.net/freedom.txt).
+* [My freedom.txt](http://www.mvanveen.net/freedom.txt).
+* [Project website](http://wastedcode.com/freedom/).
+* [Inderpreet's  original blog post][isingh] for more information
 
-Check out [Inderpreet's blog post][isingh] for more information
 
-### Project Website
-
-Inderpreet has a project website available [here](http://wastedcode.com/freedom/).
-
-Full text:
+### Full text
 
 > Hi, my name is Michael Van Veen and I own this website. I no longer wish to
 > stay Anonymous in the fight against internet censorship and those who want to
