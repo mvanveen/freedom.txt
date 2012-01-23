@@ -13,6 +13,17 @@ Join the dozens who have already pledged their support.
 * [Project website](http://wastedcode.com/freedom/).
 * [Inderpreet's  original blog post][isingh] for more information
 
+### Generate Your Own
+
+   $ python freedom.py 
+   What is your name? Michael Van Veen
+   Where should I write file to? [freedom.txt]? 
+
+### Adding links
+
+For now, send me a pull request with your link and I'll include it.
+
+I plan to add a command line arg to add links automattically in the near future.
 
 ### Full text
 

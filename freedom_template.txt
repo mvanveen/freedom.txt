@@ -1,4 +1,4 @@
-Hi, my name is Michael Van Veen and I own this website. I no longer wish to
+Hi, my name is {name} and I own this website. I no longer wish to
 stay Anonymous in the fight against internet censorship and those who want to
 close down our internet.
 
@@ -16,13 +16,4 @@ fear employed by those who wish to censor us.
 A closed internet is a tool of oppression. An open internet is a weapon of
 mass creation. Pick your sides. Create your own freedom.txt on your websites.
 
-http://danmcewan.com/freedom.txt
-http://dudmail.com/freedom.txt
-http://fr.anc.is/freedom.txt
-http://hoop-la.ca/freedom.txt
-http://jacobroufa.com/freedom.txt
-http://kyleterry.com/freedom.txt
-http://mvanveen.net/freedom.txt
-http://www.isingh.info/freedom.txt
-http://www.roleplaygateway.com/freedom.txt
-https://www.jacobsparts.com/freedom.txt
+{locations}
