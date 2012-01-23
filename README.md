@@ -18,6 +18,9 @@ Join the dozens who have already pledged their support.
 Running `freedom.py` from the command line will generate a fresh `freedom.txt` 
 file after a little prompting.
 
+Add your new link to locations.txt as a seperate line in order to have the script 
+automattically add it.
+
      $ python freedom.py 
      What is your name? Michael Van Veen
      Where should I write file to? [freedom.txt]? 
