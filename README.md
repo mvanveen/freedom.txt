@@ -15,6 +15,9 @@ Join the dozens who have already pledged their support.
 
 ### Generate Your Own
 
+Running `freedom.py` from the command line will generate a fresh `freedom.txt` 
+file after a little prompting.
+
      $ python freedom.py 
      What is your name? Michael Van Veen
      Where should I write file to? [freedom.txt]? 
