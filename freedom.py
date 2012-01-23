@@ -21,7 +21,7 @@ def main():
     inp
   )
 
-  location = raw_input('Where should I write file to? [freedom.txt]? ')
+  location = raw_input('Where should I write file to [freedom.txt]? ')
 
   with open(location or 'freedom.txt', 'w') as file_obj:
     file_obj.write(inp)
