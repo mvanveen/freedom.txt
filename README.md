@@ -83,7 +83,35 @@ Running with the `--with-hosts` flag will add in your `/etc/hosts` file.
 
 The `--hosts-file` switchoff will let you specify a custom hosts location to read from.
 
-Finally, `--write-hosts` will write a `HOSTS`j:wfile in your local directory.
+Finally, `--write-hosts` will write a `HOSTS` file in your local directory.
+
+   $python freedom.py --hosts-file=/etc/hosts --write-hosts
+
+** default output **
+
+    writing file [HOSTS]... OK
+    $ freedom.txt git:(etc_hosts) ✗ cat HOSTS
+    http://www.wikipedia.org/                  208.80.152.201
+    http://jacobroufa.com/freedom.txt          173.236.211.83
+    http://kyleterry.com/freedom.txt           173.255.214.107
+    http://mvanveen.net/freedom.txt            173.236.202.225
+    http://news.ycombinator.com/               174.132.225.106
+    https://www.jacobsparts.com/freedom.txt    64.255.252.123
+    http://www.github.com/                     207.97.227.243
+    http://twitter.org/                        69.6.27.100
+    http://dudmail.com/freedom.txt             74.50.61.206
+    http://www.roleplaygateway.com/freedom.txt 173.203.107.43
+    http://www.isingh.info/freedom.txt         66.147.244.74
+    http://www.google.com/                     74.125.224.113
+    http://fr.anc.is/freedom.txt               208.94.116.12
+    http://danmcewan.com/freedom.txt           173.230.131.140
+    broadcasthost                              255.255.255.255
+    http://hoop-la.ca/freedom.txt              70.66.72.121
+    http://www.eff.org/                        69.50.232.54
+    localhost                                  127.0.0.1
+    localhost                                  ::1
+    localhost                                  fe80::1%lo0%                                                                                                                                          ➜  freedom.txt git:(etc_hosts) ✗ fg
+
 
 ### Adding links
 
