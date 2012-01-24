@@ -16,13 +16,22 @@ fear employed by those who wish to censor us.
 A closed internet is a tool of oppression. An open internet is a weapon of
 mass creation. Pick your sides. Create your own freedom.txt on your websites.
 
-http://danmcewan.com/freedom.txt
-http://dudmail.com/freedom.txt
-http://fr.anc.is/freedom.txt
-http://hoop-la.ca/freedom.txt
-http://jacobroufa.com/freedom.txt
-http://kyleterry.com/freedom.txt
-http://mvanveen.net/freedom.txt
-http://www.isingh.info/freedom.txt
-http://www.roleplaygateway.com/freedom.txt
-https://www.jacobsparts.com/freedom.txt
+---
+humans:
+  http://danmcewan.com/freedom.txt: 173.230.131.140
+  http://dudmail.com/freedom.txt: 74.50.61.206
+  http://fr.anc.is/freedom.txt: 208.94.116.57
+  http://hoop-la.ca/freedom.txt: 70.66.72.121
+  http://jacobroufa.com/freedom.txt: 173.236.211.83
+  http://kyleterry.com/freedom.txt: 173.255.214.107
+  http://mvanveen.net/freedom.txt: 173.236.202.225
+  http://www.isingh.info/freedom.txt: 66.147.244.74
+  http://www.roleplaygateway.com/freedom.txt: 173.203.107.43
+  https://www.jacobsparts.com/freedom.txt: 64.255.252.123
+poi:
+  http://twitter.org/: 69.6.27.100
+  http://www.eff.org/: 69.50.232.54
+  http://www.google.com/: 74.125.224.114
+  http://www.wikipedia.org/: 208.80.152.201
+---
+
