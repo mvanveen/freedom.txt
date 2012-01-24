@@ -69,7 +69,7 @@ The following will add a custom `freedom.txt` into the local directory:
 
 ### /etc/hosts Integration
 
-**experimental**: Now supports `/etc/hosts` integration.
+**experimental**: *Now supports `/etc/hosts` integration!*
 
 Running with the `--with-hosts` flag will add in your `/etc/hosts` file.
 
