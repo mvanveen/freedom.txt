@@ -67,6 +67,24 @@ The following will add a custom `freedom.txt` into the local directory:
     
     writing file... OK
 
+### /etc/hosts Integration
+
+**experimental**: Now supports `/etc/hosts` integration.
+
+Running with the `--with-hosts` flag will add in your `/etc/hosts` file.
+
+   hosts_file:
+     broadcasthost:
+       - 255.255.255.255
+     localhost:
+       - 127.0.0.1
+       - ::1
+       - fe80::1%lo0
+
+The `--hosts-file` switchoff will let you specify a custom hosts location to read from.
+
+Finally, `--write-hosts` will write a `HOSTS`j:wfile in your local directory.
+
 ### Adding links
 
 For now, send me a pull request with your link and I'll include it.

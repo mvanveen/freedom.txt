@@ -17,6 +17,13 @@ A closed internet is a tool of oppression. An open internet is a weapon of
 mass creation. Pick your sides. Create your own freedom.txt on your websites.
 
 ---
+hosts_file:
+  broadcasthost:
+  - 255.255.255.255
+  localhost:
+  - 127.0.0.1
+  - ::1
+  - fe80::1%lo0
 humans:
   http://danmcewan.com/freedom.txt: 173.230.131.140
   http://dudmail.com/freedom.txt: 74.50.61.206
@@ -33,7 +40,7 @@ poi:
   http://twitter.org/: 69.6.27.100
   http://www.eff.org/: 69.50.232.54
   http://www.github.com/: 207.97.227.243
-  http://www.google.com/: 74.125.224.145
+  http://www.google.com/: 74.125.224.113
   http://www.wikipedia.org/: 208.80.152.201
 ---
 
