@@ -37,10 +37,10 @@ humans:
   https://www.jacobsparts.com/freedom.txt: 64.255.252.123
 poi:
   http://news.ycombinator.com/: 174.132.225.106
-  http://twitter.com/: 69.6.27.100
+  http://twitter.org/: 69.6.27.100
   http://www.eff.org/: 69.50.232.54
   http://www.github.com/: 207.97.227.243
-  http://www.google.com/: 74.125.224.113
+  http://www.google.com/: 74.125.224.114
   http://www.wikipedia.org/: 208.80.152.201
 ---
 

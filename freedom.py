@@ -100,7 +100,7 @@ def main(hosts_file='/etc/hosts', with_hosts=False, write_hosts_set=False):
     with open('HOSTS', 'w') as file_obj:
       output_dict = get_hosts(hosts_locations)
 
-      make_list_dict = lambda old_dict: [(x, [y]) for x, y in old_dict.iteritems()]
+      make_list_dict = lambda old_dict: [(urlparse(x).netloc, [y]) for x, y in old_dict.iteritems()]
 
       output_dict.update(make_list_dict(dump_dict['poi']))
       output_dict.update(make_list_dict(dump_dict['humans']))
