@@ -93,28 +93,27 @@ Finally, `--write-hosts` will write a `HOSTS` file in your local directory.
 
     $ freedom.txt git:(etc_hosts) ✗ cat HOSTS
 
-    danmcewan.com           173.230.131.140
-    jacobroufa.com          173.236.211.83
-    www.wikipedia.org       208.80.152.201
-    www.eff.org             69.50.232.54
-    twitter.org             69.6.27.100
-    www.google.com          74.125.224.114
-    www.github.com          207.97.227.243
-    dudmail.com             74.50.61.206
-    hoop-la.ca              70.66.72.121
-    www.isingh.info         66.147.244.74
-    fr.anc.is               208.94.116.12
-    www.jacobsparts.com     64.255.252.123
-    mvanveen.net            173.236.202.225
-    broadcasthost           255.255.255.255
-    www.roleplaygateway.com 173.203.107.43
-    news.ycombinator.com    174.132.225.106
-    localhost               127.0.0.1
-    localhost               ::1
-    localhost               fe80::1%lo0
-    kyleterry.com           173.255.214.107
-
-
+    173.230.131.140         danmcewan.com
+    173.236.211.83          jacobroufa.com
+    178.79.160.88           dagrevis.lv
+    208.80.152.201          www.wikipedia.org
+    69.50.232.54            www.eff.org
+    69.6.27.100             twitter.org
+    74.125.224.112          www.google.com
+    207.97.227.243          www.github.com
+    74.50.61.206            dudmail.com
+    70.66.72.121            hoop-la.ca
+    66.147.244.74           www.isingh.info
+    208.94.116.12           fr.anc.is
+    64.255.252.123          www.jacobsparts.com
+    173.236.202.225         mvanveen.net
+    255.255.255.255         broadcasthost
+    173.203.107.43          www.roleplaygateway.com
+    174.132.225.106         news.ycombinator.com
+    127.0.0.1               localhost
+    ::1                     localhost
+    fe80::1%lo0             localhost
+    173.255.214.107         kyleterry.com
 ### Adding links
 
 For now, send me a pull request with your link and I'll include it.
