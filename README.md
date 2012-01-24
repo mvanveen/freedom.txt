@@ -87,7 +87,7 @@ Finally, `--write-hosts` will write a `HOSTS` file in your local directory.
 
    $python freedom.py --hosts-file=/etc/hosts --write-hosts
 
-** default output **
+**default output ensues**
 
     writing file [HOSTS]... OK
     $ freedom.txt git:(etc_hosts) ✗ cat HOSTS
