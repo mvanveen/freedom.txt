@@ -56,7 +56,7 @@ The following will add a custom `freedom.txt` into the local directory:
       http://www.roleplaygateway.com/freedom.txt: 173.203.107.43
       https://www.jacobsparts.com/freedom.txt: 64.255.252.123
     poi:
-      http://twitter.org/: 69.6.27.100
+      http://twitter.com/: 69.6.27.100
       http://www.eff.org/: 69.50.232.54
       http://www.google.com/: 74.125.224.114
       http://www.wikipedia.org/: 208.80.152.201
