@@ -1,4 +1,5 @@
 from collections import defaultdict
+from operator import __add__
 import re
 import socket
 import sys
@@ -16,12 +17,15 @@ parser.add_option('--write-hosts', dest='write_hosts', default=False, action='st
 def write_hosts(hosts=None):
   '''Writes an /etc/hosts file to a string'''
   assert isinstance(hosts, dict), 'Expected hosts var to be a dict!'
-  max_len = max([len(x) for x in hosts.iterkeys()])
+  max_len = max(
+    [len(x) for x in hosts.iterkeys()] +
+    reduce(__add__, [[len(ip) for ip in ips] for ips in hosts.itervalues()])
+  )
 
   entries = []
   for domain, ips in hosts.iteritems():
     for ip in ips:
-      entries.append(' '.join((domain.ljust(max_len), ip)))
+      entries.append(' '.join((ip.ljust(max_len), domain)))
   return '\n'.join(entries)
 
 

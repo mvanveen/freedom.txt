@@ -20,6 +20,8 @@ mass creation. Pick your sides. Create your own freedom.txt on your websites.
 hosts_file:
   broadcasthost:
   - 255.255.255.255
+  dagrevis.lv:
+  - 178.79.160.88
   localhost:
   - 127.0.0.1
   - ::1
@@ -40,7 +42,7 @@ poi:
   http://twitter.org/: 69.6.27.100
   http://www.eff.org/: 69.50.232.54
   http://www.github.com/: 207.97.227.243
-  http://www.google.com/: 74.125.224.114
+  http://www.google.com/: 74.125.224.112
   http://www.wikipedia.org/: 208.80.152.201
 ---
 
