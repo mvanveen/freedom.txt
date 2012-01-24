@@ -73,13 +73,13 @@ The following will add a custom `freedom.txt` into the local directory:
 
 Running with the `--with-hosts` flag will add in your `/etc/hosts` file.
 
-   hosts_file:
-     broadcasthost:
-       - 255.255.255.255
-     localhost:
-       - 127.0.0.1
-       - ::1
-       - fe80::1%lo0
+    hosts_file:
+      broadcasthost:
+        - 255.255.255.255
+      localhost:
+        - 127.0.0.1
+        - ::1
+        - fe80::1%lo0
 
 The `--hosts-file` switchoff will let you specify a custom hosts location to read from.
 
