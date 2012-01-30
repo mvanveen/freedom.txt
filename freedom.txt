@@ -1,40 +1,55 @@
-Hi, my name is Michael Van Veen and I own this website. I no longer wish to
-stay Anonymous in the fight against internet censorship and those who want to
-close down our internet.
+Hi, my name is Michael Van Veen and I own this website.
 
-An open internet is more important than the interests of nation states.
-Governments have failed us because of ignorance & corruption. They must be
-fought.
+I no longer wish to stay anonymous in the fight against Internet
+censorship and those who want to close down our Internet.
 
-An open internet is more important than corporations. They have failed us
-because of their natural greed. They must be changed.
+An open Internet is more important than the interests of nation
+states.
 
-An open internet is more important than security, copyright infringement,
-terrorism or child pornography. We will not be fooled by the strategies of
-fear employed by those who wish to censor us.
+An open Internet is more important than corporations.
 
-A closed internet is a tool of oppression. An open internet is a weapon of
-mass creation. Pick your sides. Create your own freedom.txt on your websites.
+An open Internet is more important than security, copyright
+infringement, terrorism or child pornography.
+
+Many governments have failed us because of ignorance and corruption;
+they must be fought. Many corporations have failed us because of
+their greed; they must be changed.
+
+The interests of a few are not more important than the freedoms of
+all, whether those interests are seeded in greed, control, religion,
+or the false promises of security.
+
+We will not be fooled by the strategies of fear employed by those
+who wish to censor us.
+
+A closed internet is a tool of oppression. An open internet is a
+weapon of mass creation. Pick your sides. Create your own freedom.txt
+on your websites. Use this freedom.txt as a template, if you'd like,
+or head to freedomtxt.org for more information.
+
+Thank you for reading.
+
+_____________________________________________________________________
+
+"I would rather be exposed to the inconveniences attending too much
+liberty than to those attending too small a degree of it."
+- Thomas Jefferson
 
 ---
-hosts_file:
-  broadcasthost:
-  - 255.255.255.255
-  dagrevis.lv:
-  - 178.79.160.88
-  localhost:
-  - 127.0.0.1
-  - ::1
-  - fe80::1%lo0
 humans:
+  http://dagrevis.lv/freedom.txt: 178.79.160.88
   http://danmcewan.com/freedom.txt: 173.230.131.140
   http://dudmail.com/freedom.txt: 74.50.61.206
-  http://fr.anc.is/freedom.txt: 208.94.116.12
+  http://fr.anc.is/freedom.txt: 208.94.116.57
   http://hoop-la.ca/freedom.txt: 70.66.72.121
   http://jacobroufa.com/freedom.txt: 173.236.211.83
   http://kyleterry.com/freedom.txt: 173.255.214.107
   http://mvanveen.net/freedom.txt: 173.236.202.225
+  http://nul.co.za/freedom.txt: 216.246.55.83
+  http://ulrichard.ch/freedom.txt: 62.202.65.166
+  http://www.fermasoft.com/freedom.txt: 62.149.140.13
   http://www.isingh.info/freedom.txt: 66.147.244.74
+  http://www.nicollet.net/freedom.txt: 87.98.188.226
   http://www.roleplaygateway.com/freedom.txt: 173.203.107.43
   https://www.jacobsparts.com/freedom.txt: 64.255.252.123
 poi:
@@ -42,7 +57,7 @@ poi:
   http://twitter.org/: 69.6.27.100
   http://www.eff.org/: 69.50.232.54
   http://www.github.com/: 207.97.227.243
-  http://www.google.com/: 74.125.224.112
+  http://www.google.com/: 74.125.224.113
   http://www.wikipedia.org/: 208.80.152.201
 ---
 
